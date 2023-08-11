@@ -84,7 +84,7 @@
 [stopbgm  time="1000"  fadeout="true"  ]
 [tb_start_text mode=1 ]
 #ゆうこ
-そうだなー、分かったよ。[p]
+しょうがないな、分かったよ。[p]
 [_tb_end_text]
 
 [chara_hide  name="女友達"  time="1000"  wait="false"  pos_mode="true"  ]
