@@ -2,7 +2,7 @@
 
 [mask time=10]
 [mask_off time=10]
-[bg  storage="教室.png"  time="1000"  ]
+[bg  storage="kyousitu.png"  time="1000"  ]
 [tb_show_message_window  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="学校_kobayuu.ogg"  ]
 [tb_start_text mode=1 ]
@@ -16,7 +16,7 @@
 びく！[p]
 [_tb_end_text]
 
-[chara_show  name="女友達"  time="1000"  wait="true"  storage="chara/1/女友達_笑顔幅500.png"  width="500"  height="708"  left="285"  top="131"  reflect="false"  ]
+[chara_show  name="女友達"  time="1000"  wait="true"  storage="chara/1/女友達_笑顔幅500.png"  width="477"  height="676"  left="285"  top="122"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #
 なんだ、ゆうこか。どうしたの？[p]
@@ -32,7 +32,7 @@
 分かったよ[p]
 [_tb_end_text]
 
-[bg  time="1000"  method="fadeInRight"  storage="rouka.jpg"  ]
+[bg  time="1000"  method="fadeInRight"  storage="教室の廊下.png"  ]
 [chara_mod  name="女友達"  time="600"  cross="true"  storage="chara/1/女友達_真顔幅500.png"  ]
 [tb_start_text mode=1 ]
 #ゆうこ
