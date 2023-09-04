@@ -59,7 +59,7 @@
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
-[glink  color="black"  storage="UrayamaScene2.ks"  size="20"  text="ヒヨコかな？"  x="310"  y="116"  width=""  height=""  _clickable_img=""  target="*demo"  ]
+[glink  color="black"  storage="hiyoko_Scene3.ks"  size="20"  text="ヒヨコかな？"  x="310"  y="116"  width=""  height=""  _clickable_img=""  target="*hiyoko_start"  ]
 [glink  color="black"  storage="UrayamaScene2.ks"  size="20"  text="ゾウだね"  x="306"  y="207"  width="119"  height="20"  _clickable_img=""  target="*demo"  ]
 [glink  color="black"  storage="UrayamaScene2.ks"  size="20"  text="猫かな"  x="307"  y="321"  width="123"  height="20"  _clickable_img=""  target="*demo"  ]
 [s  ]
