@@ -7,55 +7,55 @@
 [chara_show  name="女友達"  time="1000"  wait="true"  storage="chara/1/女友達_笑顔幅500.png"  width="379"  height="537"  left="159"  top="206"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ゆうこ
-おっ、ちゃんと来てくれたね。[p]
+「おっ、ちゃんと来てくれたね。」[p]
 #
-それで、その隕石のようなものはどこら辺にあるの？[p]
+「それで、その隕石のようなものはどこら辺にあるの？」[p]
 [_tb_end_text]
 
 [chara_mod  name="女友達"  time="600"  cross="true"  storage="chara/1/女友達_ニヤツキ幅500.png"  ]
 [tb_start_text mode=1 ]
 #ゆうこ
-あっ、その言い方はまだ信用してないな？[p]
+「あっ、その言い方はまだ信用してないな？」[p]
 #
-うるさいなあ、早く終わらせよう。[p]
+「うるさいなあ、早く終わらせよう。」[p]
 
 [_tb_end_text]
 
 [chara_mod  name="女友達"  time="600"  cross="true"  storage="chara/1/女友達_真顔幅500.png"  ]
 [tb_start_text mode=1 ]
 #
-なんとなく話しながらその隕石の痕跡を探すことにした。[p]
+「なんとなく話しながらその隕石の痕跡を探すことにした」[p]
 #ゆうこ
-来月にはもう合唱コンクールあるじゃん？[p]
+「来月にはもう合唱コンクールあるじゃん？」[p]
 #
-そうだねー[p]
+「そうだねー」[p]
 [_tb_end_text]
 
 [chara_mod  name="女友達"  time="600"  cross="true"  storage="chara/1/女友達_困り顔幅500.png"  ]
 [tb_start_text mode=1 ]
 #ゆうこ
-うちのクラスは、皆やる気ある人ばっかりだから疲れるんだよねー[p]
+「うちのクラスは、皆やる気ある人ばっかりだから疲れるんだよねー」[p]
 #
-ゆうこは楽しみじゃないの？[p]
+「ゆうこは楽しみじゃないの？」[p]
 #ゆうこ
-そりゃ、楽しみは楽しみだけど限度ってもんがさー……[p]
+「そりゃ、楽しみは楽しみだけど限度ってもんがさー……」[p]
 [_tb_end_text]
 
 [chara_mod  name="女友達"  time="600"  cross="true"  storage="chara/1/女友達_困り顔幅500.png"  ]
 [tb_start_text mode=1 ]
 #ゆうこ
-どうしたの？[p]
+「どうしたの？」[p]
 #
-あそこ何かいない？[p]
+「あそこ何かいない？」[p]
 そこには、明らかに植物でないものが見え隠れしていた。気になり走り出す。[p]
 [_tb_end_text]
 
 [chara_mod  name="女友達"  time="600"  cross="true"  storage="chara/1/女友達_怒り顔幅500.png"  ]
 [tb_start_text mode=1 ]
 #ゆうこ
-ちょっと待ってよ～[p]
-はあ、はあ、はあ……[p]
-それ、何か分かる？[p]
+「ちょっと待ってよ～」[p]
+「はあ、はあ、はあ……」[p]
+「それ、何か分かる？」[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
