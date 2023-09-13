@@ -68,6 +68,8 @@
 [tb_start_text mode=1 ]
 #ガイド
 この先は製品版でお楽しみください。[p]
+
+猫を崇めよ[p]
 [_tb_end_text]
 
 [s  ]
